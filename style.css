@@ -1,0 +1,53 @@
+.jumbotron {
+	/*background: #358CCE;*/
+	color: #FFF;
+	border-radius: 0px;
+    background: none;
+}
+
+.jumbotron-sm { 
+	padding-top: 24px;
+	padding-bottom: 24px; 
+	text-align: center;
+}
+
+.jumbotron small {
+	color: #FFF;
+}
+
+.h1 small {
+	font-size: 24px;
+}
+
+.logo-image {
+	max-width: 50%;
+	max-height: 300px;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.for-chrome {
+	font-size: 25px;
+	font-weight: bold;
+	color: #2F306B;
+	font-family: 'Roboto Light', sans-serif;
+}
+
+@font-face {
+  font-family:"Roboto Light";
+  src: url("roboto.light.ttf") format("truetype");
+}
+
+.btn-genereaza {
+	background-color: #2F306B;
+	border: none;
+}
+
+
+.btn-genereaza:hover {
+	background-color: #ffb93e;
+	color: #2F306B;
+	border: none;
+}
